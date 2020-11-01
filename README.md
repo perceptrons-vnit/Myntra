@@ -1,14 +1,16 @@
 # Theme:3 Trendiness
 ## Table of Content
 - [Overview](#Overview)
-- [Objective](#heading-2)
-- [Procedure](#heading-3)
-- [Installation](#heading-4)
-- [Technologies Used](#heading-5)
+- [Objective](#Objective)
+- [Procedure](#Procedure)
+- [Installation](#Installation)
+- [Results](#Results)
+- [Technologies Used](#Technogies Used)
 - [License](#License)
 ## Overview
 ## Objective
 ## Procedure
 ## Installation
+## Results
 ## Technologies Used
 ## License
