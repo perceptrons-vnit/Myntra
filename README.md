@@ -8,7 +8,10 @@
 - [Technologies Used](#Technologies Used)
 - [License](#License)
 ## Overview
+"Trends change everyday"
+Precise fashion trend prediction is essential for fashion brands and e-commerce sites to strive for the global marketing campaign
 ## Objective
+
 ## Procedure
 ## Installation
 ## Results
