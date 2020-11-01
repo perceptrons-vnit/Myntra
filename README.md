@@ -26,4 +26,7 @@ The Virtual Trial Room will provide an easy and pleasant experience for any user
 ## Procedure
 ## Installation
 ## Results
+An example of results obtained using open cv grabcut app:
+
+<img src="https://user-images.githubusercontent.com/69817938/97804111-230a0300-1c67-11eb-92e6-f9fdeb224084.png" alt="Coat" width="250"/>
 ## License
