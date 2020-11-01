@@ -5,7 +5,6 @@
 - [Procedure](#Procedure)
 - [Installation](#Installation)
 - [Results](#Results)
-- [Technologies Used](#Technologies Used)
 - [License](#License)
 ## Overview
 "Trends change everyday"
@@ -15,5 +14,4 @@ Precise fashion trend prediction is essential for fashion brands and e-commerce 
 ## Procedure
 ## Installation
 ## Results
-## Technologies Used
 ## License
