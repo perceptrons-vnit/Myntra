@@ -5,7 +5,7 @@
 - [Procedure](#Procedure)
 - [Installation](#Installation)
 - [Results](#Results)
-- [Technologies Used](#Technogies Used)
+- [Technologies Used](#Technologies Used)
 - [License](#License)
 ## Overview
 ## Objective
